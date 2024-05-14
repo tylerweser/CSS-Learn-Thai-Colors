@@ -1,0 +1,77 @@
+div {
+  height:20vw;
+  width:20vw;
+  border:1px solid black;
+  margin-left:40%;
+}
+body{
+  background-image:repeating-linear-gradient(45deg, white,  rgb(202, 202, 202));
+}
+h1 {
+  font-size:4vw;
+}
+* {
+  text-align:center;
+  font-family:monospace;
+  font-size:3vw;
+}
+.red {
+  color:rgb(197, 0, 0);
+}
+.blue {
+  color:blue;
+}
+.yellow {
+  color:yellow;
+}
+.green {
+  color:green;
+}
+.orange {
+  color:orange;
+}
+.purple {
+  color:purple;
+}
+.pink {
+  color:rgb(214, 160, 169);
+}
+.black {
+  color:black;
+}
+.white {
+  color:white;
+}
+
+/*this upcoming is for the actual divs*/
+#white-div{
+  background-color:white;
+}
+#yellow-div {
+  background-color:yellow;
+}
+#red-div {
+  background-color:red;
+}
+#blue-div {
+  background-color:blue;
+}
+#green-div {
+  background-color:green;
+}
+#orange-div {
+  background-color:orange;
+}
+#purple-div {
+  background-color:purple;
+}
+#pink-div {
+  background-color:pink;
+}
+#black-div {
+  background-color:black;
+}
+p {
+  margin-top:30vw;
+  font-size:2vw;
+}
